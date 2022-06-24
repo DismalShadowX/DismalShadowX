@@ -24,10 +24,10 @@
 ## 📊 Github Statistics<br/>
 <p align='center'>  
 <!--&theme=buefy&bg_color=0D1117"/></a> -->
-<a href="https://github.com/DismalShadowX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a><br />
+<a href="https://github.com/DismalShadowX/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a><br />
 
 <p align='center'>
-<a href="https://github.com/DismalShadowX/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=true" /></a>
+<a href="https://github.com/DismalShadowX/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=true" /></a>
 
 ## 💻 My workstation<br/>
   <p align='center'>
