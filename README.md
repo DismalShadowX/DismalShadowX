@@ -2,12 +2,11 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Mobile+and+Web+App+Developer.;Just+an+amateur+learning+to+code.;Freelancer+from+Aguada,PR.;Founder+%26+CEO+of+Time+Lords.;Linux+Administrator."></a>
+  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Amateur+Developer.;Freelancer+from+Aguada,PR.;Focus+On+Technology...;Building+Computer+Hardwares...;Web+Development,+Networking;And+Mobile+Phones.;Linux+Administrator"></a>
 </p>
 
 <!--
 <p align='center'>
-  A mobile and amateur developer from Aguada, Puerto Rico.<br>
   Just a rookie learning to code
 </p>
 -->
