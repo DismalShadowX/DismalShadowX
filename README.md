@@ -18,6 +18,13 @@
     <a herf=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
 </p>
+<h1 align="center">
+     <br>
+     
+ [![Github all releases](https://img.shields.io/github/downloads/DismalShadowX/DismalShadowX/total.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/releases/) [![GitHub release](https://img.shields.io/github/release/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/releases/) [![GitHub issues](https://img.shields.io/github/issues/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/issues/) [![DiscordServer](https://img.shields.io/discord/880895807878996068?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)](https://discord.com/invite/CsfSnqsPq9)
+
+
+ </h1>
     
 <!-- Updated Github Stats -->
 ## 📊 Github Statistics<br/>
