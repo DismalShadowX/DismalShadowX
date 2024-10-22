@@ -18,8 +18,8 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://blog.everythingbagel.me)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://everythingbagel.social/@shadow)
 <!-- ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)<br> -->
-[![Github all releases](https://img.shields.io/github/downloads/DismalShadowX/Home/total.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/releases/)
-[![GitHub release](https://img.shields.io/github/release/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://github.com/DismalShadowX/Home/releases/)
+[![Github all releases](https://img.shields.io/github/downloads/DismalShadowX/DismalShadowX/total.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/releases/)
+[![GitHub release](https://img.shields.io/github/release/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://github.com/DismalShadowX/DismalShadowX/releases/)
 [![GitHub issues](https://img.shields.io/github/issues/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/issues/)
 [![DiscordServer](https://img.shields.io/discord/880895807878996068?label=Discord&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)](https://discord.gg/2hrXNPSMcJ)
 </div>
@@ -97,7 +97,7 @@
 
 * [Everything Bagel](https://everythingbagel.me) - Parent homepage
 * [Everything Bagel](https://everythingbagel.social) - Flagship Mastodon instance
-* [Everything Cafe](https://cafe.everythingbagel.me) - Content aggregator, voting, discussion and Reddit alternative
+* [Everything Hub](https://hub.everythingbagel.me) - Content aggregator, voting, discussion and Reddit alternative
 * [Everything Video](https://video.everythingbagel.me) - YouTube alternative
 * [Everything Pixel](https://pixel.everythingbagel.me) - Federated photo sharing
 * [Everything Press](https://press.everythingbagel.me) - WordPress alternative
@@ -134,7 +134,7 @@
 
 [![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.torproject.org)
 ![DuckDuckGo](https://img.shields.io/badge/duckduckgo-de5833?style=for-the-badge&logo=duckduckgo&logoColor=white)
-[![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)](https://nextcloud.com)
+[![NextCloud](https://img.shields.io/badge/Nextcloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)](https://nextcloud.com)
 [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.org)
 [![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.net)
  
