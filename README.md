@@ -19,7 +19,7 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://everythingbagel.social/@shadow)
 <!-- ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)<br> -->
 [![Github all releases](https://img.shields.io/github/downloads/DismalShadowX/DismalShadowX/total.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/releases/)
-[![GitHub release](https://img.shields.io/github/release/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://github.com/DismalShadowX/DismalShadowX/releases/)
+[![GitHub release](https://img.shields.io/github/release/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://github.com/DismalShadowX/DismalShadowX/releases/tag/v0.1-alpha)
 [![GitHub issues](https://img.shields.io/github/issues/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/issues/)
 [![DiscordServer](https://img.shields.io/discord/880895807878996068?label=Discord&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)](https://discord.gg/2hrXNPSMcJ)
 </div>
