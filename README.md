@@ -18,9 +18,11 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://blog.everythingbagel.me)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://everythingbagel.social/@shadow)
 <!-- ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)<br> -->
-[![Github all releases](https://img.shields.io/github/downloads/DismalShadowX/DismalShadowX/total.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/releases/)
-[![GitHub release](https://img.shields.io/github/release/DismalShadowX.svg?style=for-the-badge)](https://github.com/DismalShadowX/releases/)
-[![GitHub issues](https://img.shields.io/github/issues/DismalShadowX/DismalShadowX/fediverse-issue-tracker.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/issues/fediverse-issue-tracker/issues)
+![GitHub Release](https://img.shields.io/github/v/release/DismalShadowX/DismalShadowX?include_prereleases&display_name=release&style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/DismalShadowX/DismalShadowX?include_prereleases&display_name=tag&style=for-the-badge)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DismalShadowX/DismalShadowX/total?style=for-the-badge)
+
+[![GitHub issues](https://img.shields.io/github/issues/DismalShadowX/fediverse-issue-tracker.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/fediverse-issue-tracker/issues)
 [![DiscordServer](https://img.shields.io/discord/880895807878996068?label=Discord&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)](https://discord.gg/2hrXNPSMcJ)
 </div>
 
