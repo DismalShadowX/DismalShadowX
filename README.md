@@ -18,9 +18,9 @@
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://blog.everythingbagel.me)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://everythingbagel.social/@shadow)
 <!-- ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)<br> -->
-[![Github all releases](https://img.shields.io/github/downloads/DismalShadowX/Home/total.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/Home/releases/)
-[![GitHub release](https://img.shields.io/github/release/DismalShadowX/Home.svg?style=for-the-badge)](https://github.com/DismalShadowX/Home/releases/)
-[![GitHub issues](https://img.shields.io/github/issues/DismalShadowX/Home.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/Home/issues/)
+[![Github all releases](https://img.shields.io/github/downloads/DismalShadowX/Home/total.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/releases/)
+[![GitHub release](https://img.shields.io/github/release/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://github.com/DismalShadowX/Home/releases/)
+[![GitHub issues](https://img.shields.io/github/issues/DismalShadowX/DismalShadowX.svg?style=for-the-badge)](https://GitHub.com/DismalShadowX/DismalShadowX/issues/)
 [![DiscordServer](https://img.shields.io/discord/880895807878996068?label=Discord&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)](https://discord.gg/2hrXNPSMcJ)
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="center">
   
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G479BN8)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dismalshadow)
 
 [![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/DismalShadow)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=848MCGXBHKPKS)
